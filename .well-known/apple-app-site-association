@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "N5QD8VDAD3.faisal.PureLens"
+        ],
+        "components": [
+          {
+            "/": "/tiktok/callback",
+            "comment": "TikTok Login callback"
+          },
+          {
+            "/": "/tiktok/callback/",
+            "comment": "TikTok Login callback trailing slash"
+          },
+          {
+            "/": "/tiktok/callback/*",
+            "comment": "TikTok Login callback subpaths"
+          }
+        ]
+      }
+    ]
+  }
+}
